@@ -1,7 +1,7 @@
 # Laboratorium NLP: Modele Bigramowe, Word2Vec i CBOW
 
 **Autor:** Marcin Przybylski
-**Data:** 2025 (na podstawie daty na pierwszej stronie dokumentu)
+**Data:** 2025
 
 ## Opis Projektu
 
